@@ -1,0 +1,1 @@
+export const apiURL = import.meta.env.PROD ? 'https://kongfandong.cn' : '/api';
